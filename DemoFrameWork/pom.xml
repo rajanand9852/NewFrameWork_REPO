@@ -69,7 +69,7 @@
         <version>3.5.2</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>testng_RT.xml</suiteXmlFile>
+            <suiteXmlFile>testngRT.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
